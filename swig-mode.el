@@ -4,8 +4,8 @@
 ;;
 ;; Author: wenbinye@163.com
 ;; Time-stamp: <Ye Wenbin 2007-12-07 21:30:21>
-;; Version: $Id: swig-mode.el,v 1.1.1.1 2007-03-13 13:16:10 ywb Exp $
-;; Keywords:
+;; Version: 1.1.1.1
+;; Keywords: languages
 ;; X-URL: not distributed yet
 
 ;; This program is free software; you can redistribute it and/or modify
